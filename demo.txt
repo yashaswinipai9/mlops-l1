@@ -1,1 +1,2 @@
 Welcome to Login Page
+Welcome to Dashboard Page
